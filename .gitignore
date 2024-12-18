@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+
+# SQLite database
+feeds.db
+
+# VS Code settings
+.vscode/
+
+# Other unnecessary files
+*.pyc
+*.pyo
+*.pyd
+*.db
